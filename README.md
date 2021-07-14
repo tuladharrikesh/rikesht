@@ -1,9 +1,12 @@
-## ECS CLI V2 Sample App
+## AWS Copilot
 
-The ECS CLI is a tool for developers to create, release and manage production ready containerized applications on ECS. From getting started, pushing to staging and releasing to production, the ECS CLI can help manage the entire lifecycle of your application development.
+The AWS Copilot is a tool for developers to create, release and manage production ready containerized applications on ECS.
 
-This is a small sample app that can be used to demonstrate the ECS CLI V2. It creates a static website using nginx as the frontend. 
-## License
+This is a small sample app that can be used to demonstrate the AWS Copilot CLI. It creates a static website using nginx as the frontend. 
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+Steps:
+
+Clone this repo in your project folder and follow the steps in the blog to proceed with the implementation.
+
+For any further concerns, Contact: contact@workfall.com
 
